@@ -1,22 +1,21 @@
----
+
 layout: homepage
 ---
 
 ## About Me
 
-I am a Ph.D. student at ...
+Currently, I am employed as an economic analyst in Singapore. My six years of academic experience in economics at the National University of Singapore and Sun Yat-sen University have equipped me with a strong foundation in economic theories, mathematical and statistical modeling, and programming languages such as Python, Stata, and SQL.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Public Health:** Health Economics, Epidemiology, Mental Health
+- **Data Science:** Quantitative Analysis, Machine Learning, Economic Modelling
 
-## News
+## Experience
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2022]** Join Real Estate Analytics Pte Ltd.
+- **[Jan. 2023]** Completed my Master's degree in Economics at National University of Singapore.
+- **[Feb. 2020]** Completed my Bachelor's degree in Finance at Sun Yat-sen University.
 
 {% include_relative _includes/publications.md %}
 
