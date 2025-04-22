@@ -3,20 +3,26 @@ layout: homepage
 ---
 
 ## About Me
+Economic Analyst (Data Science & Modelling) with over 2 years of experience in developing predictive models and analyzing complex datasets. I hold a Master’s degree in Applied Economics from the National University of Singapore (NUS), and I specialize in statistical modeling and machine learning. My background enables me to transform raw data into actionable insights, supporting strategic decision-making and driving business growth.
 
-Currently, I am employed as an economic analyst in Singapore. My six years of academic experience in economics at the National University of Singapore and Sun Yat-sen University have equipped me with a strong foundation in economic theories, mathematical and statistical modeling, and programming languages such as Python, Stata, and SQL.
+## Working Experience
 
-## Research Interests
+#### Real Estate Analytics Pte. Ltd – Singapore
+**Data Scientist**  
+*Jan 2023 – Present*  
 
-- **Public Health:** Health Economics, Epidemiology, Mental Health
-- **Data Science:** Quantitative Analysis, Machine Learning, Economic Modelling
+**Data Analyst Intern – Data Science Team**  
+*Sep 2022 – Dec 2022*
 
-## Experience
+- **Machine Learning & Predictive Modelling**  
+  - Developed and optimized predictive models for housing demand forecasting, profitability analysis, and price index formulation using algorithms such as **XGBoost**, **CatBoost**, and **Random Forest**.  
+  - Utilized **NLP** and **large language models (LLMs)** for advanced feature extraction, intent categorization, and other data processing tasks.
 
-- **[Sep. 2022]** Join Real Estate Analytics Pte Ltd.
-- **[Jan. 2023]** Completed my Master's degree in Economics at National University of Singapore.
-- **[Feb. 2020]** Completed my Bachelor's degree in Finance at Sun Yat-sen University.
+- **Big Data Engineering & Scalable Data Pipelines**  
+  - Designed and maintained **ETL pipelines** using **SQL**, **Python**, and **Apache Airflow**, ensuring seamless data ingestion, transformation, and storage for large-scale real estate data.  
+  - Automated data pipelines with **CI/CD integration** using **Git**.
+
+- **Data Visualization & Business Insights**  
+  - Created interactive dashboards and automated reports using **Power BI** and **Tableau** to present model outputs, performance trends, and strategic insights to both technical and non-technical stakeholders.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
