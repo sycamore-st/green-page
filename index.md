@@ -7,7 +7,7 @@ Economic Analyst (Data Science & Modelling) with over 2 years of experience in d
 
 ## Working Experience
 
-#### Real Estate Analytics Pte. Ltd – Singapore
+### Real Estate Analytics Pte. Ltd – Singapore
 **Data Scientist**  
 *Jan 2023 – Present*  
 

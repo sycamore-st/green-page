@@ -1,12 +1,11 @@
 main:
 
   - title: "Smart Property Insight: A Chatbot-Powered Real Estate Assistant"
-    code: https://github.com/real-estate-chatbot
-    image: /assets/img/property-chatbot.png
-    notes: "A GPT-4o-powered chatbot that helps users explore property listings and gain market insights through natural language queries. It automatically detects intent (listing vs analytics) and generates SQL to return relevant results. Example: “Find a condo in Orchard under $1M with a balcony” or “Which region has the most expensive properties?” Supports listing filtering, regional price analysis, and expandable features like LangChain-based memory and cloud deployment."
+    image: ./assets/img/property-chatbot.png
+    authors: "A GPT-4o-powered chatbot that helps users explore property listings and gain market insights through natural language queries. It automatically detects intent (listing vs analytics) and generates SQL to return relevant results. Example: “Find a condo in Orchard under $1M with a balcony” or “Which region has the most expensive properties?” Supports listing filtering, regional price analysis, and expandable features like LangChain-based memory and cloud deployment."
+    code: https://github.com/sycamore-st/real-estate-chatbot.git
 
   - title: "Smart Property Insight: A Chatbot-Powered Real Estate Assistant"
-    code: https://github.com/real-estate-chatbot
-    image: /assets/img/property-chatbot.png
-    notes: "A GPT-4o-powered chatbot that helps users explore property listings and gain market insights through natural language queries. It automatically detects intent (listing vs analytics) and generates SQL to return relevant results. Example: “Find a condo in Orchard under $1M with a balcony” or “Which region has the most expensive properties?” Supports listing filtering, regional price analysis, and expandable features like LangChain-based memory and cloud deployment."
-
+    image: ./assets/img/property-chatbot.png
+    authors: "A GPT-4o-powered chatbot that helps users explore property listings and gain market insights through natural language queries. It automatically detects intent (listing vs analytics) and generates SQL to return relevant results. Example: “Find a condo in Orchard under $1M with a balcony” or “Which region has the most expensive properties?” Supports listing filtering, regional price analysis, and expandable features like LangChain-based memory and cloud deployment."
+    code: https://github.com/sycamore-st/real-estate-chatbot.git
