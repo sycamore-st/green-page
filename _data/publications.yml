@@ -9,3 +9,8 @@ main:
     image: ./assets/img/job-resume-match-system.png
     authors: "A semantic matching system that compares resumes and job descriptions using Sentence-BERT embeddings. It intelligently ranks candidates or job postings based on content relevance, helping recruiters and job seekers find better fits — beyond just keyword matching."
     code: https://colab.research.google.com/drive/14v3u7sWiGvI_Ljp640cR2V5SJTEeVOZL?usp=sharing
+
+  - title: "ADHD Brain Connectivity Saliency with Deep Learning"
+    image: ./assets/img/adhd-brain-connectivity.png
+    authors: "Built a saliency-based analysis pipeline using an attention-based graph neural network to identify and visualize the most important brain regions distinguishing ADHD from control subjects. Leveraged fMRI connectome data from WiDS Datathon 2025 and visualized results using NetworkX and Nilearn. Evaluated model performance using F1 score and highlighted interpretable neural biomarkers from the trained model."
+    code: https://colab.research.google.com/drive/1evxNTk5tjNQzoLhGF2iaUYESJgVno0sn?usp=sharing
