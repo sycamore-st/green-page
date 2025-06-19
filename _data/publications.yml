@@ -20,3 +20,8 @@ main:
     image: ./assets/img/adhd-brain-connectivity.png
     authors: "Built a saliency-based analysis pipeline using an attention-based graph neural network to identify and visualize the most important brain regions distinguishing ADHD from control subjects. Leveraged fMRI connectome data from WiDS Datathon 2025 and visualized results using NetworkX and Nilearn. Evaluated model performance using F1 score and highlighted interpretable neural biomarkers from the trained model."
     code: https://colab.research.google.com/drive/1evxNTk5tjNQzoLhGF2iaUYESJgVno0sn?usp=sharing
+
+  - title: "HIV Epidemic Modeling with ART and Drug Resistance"
+    image: ./assets/img/hiv-epidemic-model.png
+    authors: "A deterministic compartmental model inspired by Blower et al. (2000) simulating the long-term impact of antiretroviral therapy (ART) on HIV case counts and mortality. Includes ART initiation, drug resistance, dropout, and behavioral feedback. Simulations compare no ART, optimistic ART (low resistance, high adherence), and pessimistic ART (high resistance, risky behavior) using randomized parameters to reflect uncertainty. Results confirm ART's effectiveness only when paired with behavioral and adherence safeguards."
+    code: assets/files/hiv-epidemic-model.html
