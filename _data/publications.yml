@@ -1,5 +1,11 @@
 main:
 
+  - title: "Finance Report Assistant: Grounded SEC Filing Q&A"
+    image: ./assets/img/finance-report-assistant.png
+    authors: "A Streamlit app for exploring SEC 10-K filings with grounded, citation-backed answers. It ingests official EDGAR filings, chunks and indexes report text, and combines BM25 + embedding retrieval to answer questions with quoted evidence sentences and source links. Also provides concise summaries and theme signals (risk, growth, liquidity, guidance) for faster financial analysis."
+    code: https://github.com/sycamore-st/finance-report-assistant
+    app: https://huggingface.co/spaces/wu-yanjing/finance-report-assistant
+
   - title: "Smart Property Insight: A Chatbot-Powered Real Estate Assistant"
     image: ./assets/img/property-chatbot.png
     authors: "A GPT-4o-powered chatbot that helps users explore property listings and gain market insights through natural language queries. It automatically detects intent (listing vs analytics) and generates SQL to return relevant results. Example: “Find a condo in Orchard under $1M with a balcony” or “Which region has the most expensive properties?” Supports listing filtering, regional price analysis, and expandable features like LangChain-based memory and cloud deployment."
