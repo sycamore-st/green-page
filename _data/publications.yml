@@ -1,4 +1,8 @@
 main:
+  - title: "AMEX Default Risk Modeling with Temporal Behavior Ensembling"
+    image: ./assets/img/amex-default-risk.png
+    authors: "Developed an end-to-end credit risk modeling pipeline for the American Express Default Prediction challenge, integrating leakage-aware temporal feature engineering (recency, trend, volatility, and missingness), advanced LightGBM ensembles, and sequence embeddings from a bi-GRU autoencoder to represent customer behavioral trajectories. Implemented chunked full-scale training and inference for Colab reliability, added SHAP and decile-lift diagnostics for interpretability, and achieved performance gains through a calibrated weighted rank-ensemble of complementary model families."
+    code: https://github.com/sycamore-st/amex-default-prediction
 
   - title: "Finance Report Assistant: Grounded SEC Filing Q&A"
     image: ./assets/img/finance-report-assistant.png
